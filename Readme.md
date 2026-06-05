@@ -160,3 +160,8 @@ All major steps are contained in **`test_feature.ipynb`**:
 
 ## **Summary**
 This repository provides an end-to-end EEG-based BCI pipeline for **imagined speech recognition**. By leveraging **coherence-based features (MPC & MSC)** and **deep learning models (Transformer, CNN-LSTM, Vanilla MLP)**, we achieve significant **accuracy improvements** over traditional methods. The findings pave the way for **non-invasive BCIs** with **real-world applications in assistive communication and human-computer interaction**.
+
+## Licensing
+
+- **Code and notebooks** in this repository are licensed under the [GNU General Public License v3.0](LICENSE).
+- **Research papers, presentations, and datasets** are shared under [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) unless otherwise noted in those files.
